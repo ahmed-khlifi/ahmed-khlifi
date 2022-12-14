@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Front-end developer with nearly 2 years of experience, and currently working on social media mobile application called "Pepolls" and some other decentralized apps.<br>Also am learning Machine learning and Artificial intelligence to become a AI specialist and implement my knowledge at my work and other projects .<br>Am always looking to learn, explore and build great things!
+I am a Front-end developer with nearly 2 years of experience, and currently working on social network and E-commerce mobile applications and other decentralized apps.<br>Also am learning Machine learning and Artificial intelligence to become a AI specialist and implement my knowledge at my work and other projects .<br>Am always looking to learn, explore and build great things!
 
 
 ## 🌐 Socials:
