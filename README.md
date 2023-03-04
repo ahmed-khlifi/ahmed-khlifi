@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Front-end developer with nearly 2 years of experience, and currently working on social network and E-commerce mobile applications and other decentralized apps.<br>Also am learning Machine learning and Artificial intelligence to become a AI specialist and implement my knowledge at my work and other projects .<br>Am always looking to learn, explore and build great things!
+My name is Ahmed Khelifi, and I am a React JS & React Native front-end developer with a passion for building innovative, user-friendly applications.
 
 
 ## 🌐 Socials:
