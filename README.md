@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Ahmed Khelifi, and I am a React JS & React Native front-end developer with a passion for building innovative, user-friendly applications.
+Full stack software developer.
 
 
 ## 🌐 Socials:
