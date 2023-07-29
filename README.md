@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack software developer.
+
 
 
 ## 🌐 Socials:
